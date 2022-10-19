@@ -46,7 +46,7 @@ B8 **06** 0000 0000 / BA **06** 0000 0000 / BA **06** 0000 0090
 ---
 **Second step:**
 We need a hackintosh id because necessary for the stable operation of the system. 
-
+[look this](https://github.com/hnnesimioglu/hackintosh-ryzen-efi/blob/main/pleaseOpenandEditBeforeInstall.png)
 For setting up the SMBIOS info, we'll use CorpNewt's  [GenSMBIOS (opens new window)](https://github.com/corpnewt/GenSMBIOS)application.
 
 For this example, we'll choose the MacPro7,1 SMBIOS but some SMBIOS play with certain GPUs better than others:
